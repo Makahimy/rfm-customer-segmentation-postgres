@@ -1,4 +1,3 @@
-mkdir ecommerce-rfm-segmentation
 cd ecommerce-rfm-segmentation
 Markdown
 # 🛒 E-Commerce Customer Segmentation & RFM Analytics Pipeline
