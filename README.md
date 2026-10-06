@@ -1,4 +1,3 @@
-Markdown
 # 🛒 E-Commerce Customer Segmentation & RFM Analytics Pipeline
 
 An advanced SQL-driven data pipeline built in **PostgreSQL** that transforms raw transactional data into actionable behavioral customer segments using **Recency, Frequency, and Monetary (RFM) analysis**.
